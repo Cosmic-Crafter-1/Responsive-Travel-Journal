@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  height: 98vh;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
+
+.header {
+  background: #F55A5A;
+  color: white;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (min-width: 320px) and (max-width: 431px){
+
+  .container {
+    justify-content: center;
+  }
+
+  .header {
+    width: 300px;
+  }
+}

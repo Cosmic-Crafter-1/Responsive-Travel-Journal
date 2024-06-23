@@ -1,8 +1,4 @@
-# React + Vite
+# Responsive React Travel Journal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Used React and Vite to build a simple travel journal for myself to keep track of locations I'd like to visit in future.
+Will add more features to add, retrieve and search locations in future.
